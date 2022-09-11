@@ -1,4 +1,4 @@
-## Hello, i am Marcos Barbosa. 🙋‍♂️
+## Hello, i'm Marcos Barbosa. 🙋‍♂️
 ### 👨‍💻 - Web and mobile developer
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-barbosa-148224208/)
