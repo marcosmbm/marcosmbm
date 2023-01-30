@@ -1,4 +1,4 @@
-# Hi, i'm Marcos Barbosa.
+# Hi, i'm Marcos Barbosa. 👋
 I'm web and mobile developer.
 
 ## 🌐 Socials:
