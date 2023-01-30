@@ -1,6 +1,5 @@
-# 💫 About Me:
-🔥 Web and Mobile Developer<br>
-🌱 I’m currently learning  JavaScript, HTML, CSS, ReactJS, ReactNative<br>
+# Hi, i'm Marcos Barbosa.
+I'm web and mobile developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marcos-barbosa-148224208/) 
