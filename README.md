@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Marcos Barbosa. 👋
 - Desenvolvedor web e mobile.
-- Atualmente estou trabalhando com ReactJs, NodeJs e SQL Server.
+- Possuo experiência em desenvolvimento web, utilizando reactJs, nodeJs, SQL Server.
 
 
-## Tecnologias que uso no meu dia.
+## 🚀 Tecnologias que uso no meu dia.
 <div style="display: inline_block"><br/>
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -18,7 +18,14 @@
   
 </div>
 
-## Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-barbosa-148224208) 
+## 🔭 Projetos em destaque: 
+  - [Cadastro de Clientes (WEB)](https://github.com/marcosmbm/cadastro-clientes-web): uma aplicação web para você cadastrar todos os clientes do seu negócio.
+  - [Cadastro de Clientes (MOBILE)](https://github.com/marcosmbm/cadastro-clientes-mobile): uma aplicação mobile para você cadastrar todos os clientes do seu negócio.
+
+## 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-barbosa-148224208)
+
+Obrigado por visitar meu perfil! 😄
+
 
 
