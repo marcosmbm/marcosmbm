@@ -18,10 +18,6 @@
   
 </div>
 
-## 🔭 Projetos em destaque: 
-  - [Cadastro de Clientes (WEB)](https://github.com/marcosmbm/cadastro-clientes-web): uma aplicação web para você cadastrar todos os clientes do seu negócio.
-  - [Cadastro de Clientes (MOBILE)](https://github.com/marcosmbm/cadastro-clientes-mobile): uma aplicação mobile para você cadastrar todos os clientes do seu negócio.
-
 ## 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-barbosa-148224208)
 
