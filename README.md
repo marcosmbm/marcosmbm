@@ -21,10 +21,6 @@
   ![Sql Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
   ![Postegresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-## 🔭 Projetos em destaque: 
-- [Lista de Tarefas (WEB)](https://github.com/marcosmbm/lista-tarefas-web): uma aplicação web para você gerenciar suas tarefas do dia.
-- [Lista de Tarefas (MOBILE)](https://github.com/marcosmbm/lista-tarefas-mobile): uma aplicação mobile para você gerenciar suas tarefas do dia.
-
 ## 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-barbosa-148224208)
 
