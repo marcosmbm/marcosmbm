@@ -3,7 +3,7 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como **Desenvoledor FullStack** na <a href="https://github.com/inovesystem79">iNoveSystem</a>
+- 💼 Trabalhando como **Desenvolvedor FullStack** na <a href="https://github.com/inovesystem79">iNoveSystem</a>
 - 🌱 Aprendendo mais sobre **Javascript/Typescript**.
 
 <h3>Minhas Skills</h3>
