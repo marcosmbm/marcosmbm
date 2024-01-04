@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼 Trabalhando como **Desenvolvedor FullStack** na <a href="https://github.com/inovesystem79">iNoveSystem</a>
-- 🌱 Aprendendo mais sobre desenvolvimento mobile com **React Native**.
+- 🌱 Aprendendo mais sobre desenvolvimento javascript com **React** e **React Native**.
 
 <h3>Minhas Skills</h3>
 
