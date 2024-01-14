@@ -1,46 +1,10 @@
-![](https://komarev.com/ghpvc/?username=marcosmbm&color=006bed)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=marcosmbm&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-<h3>Sobre mim</h3>
+### Olá, meu nome é Marcos Barbosa!
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Trabalhando como **Desenvolvedor FullStack** na <a href="https://github.com/inovesystem79">iNoveSystem</a>
-- 🌱 Aprendendo mais sobre desenvolvimento javascript com **React** e **React Native**.
+<img src="https://img.shields.io/static/v1?label=Overview&message=Marcos&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<h3>Minhas Skills</h3>
+<p>Trabalhando na iNoveSystem <br/> Eu sou desenvolvedor fullStack, utilizando react e nodejs</p>
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=Node.js)
-
-**Banco de dados**
-![SQL SERVER](https://img.shields.io/badge/-Microsoft%20SQLServer-333333?style=flat&logo=MicrosoftSQLServer)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
-
-**DevOps**
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Utilidades**
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-
-**Ferramentas de desenvolvimento**
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosmbm&theme=dracula&show_icons=true" />
-</a>
-
-<h3>Onde me encontrar</h3>
-
-[![Linkedin](https://img.shields.io/badge/-Marcos%20Barbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-barbosa-148224208/)](https://www.linkedin.com/in/marcos-barbosa-148224208/)
-[![GitHub](https://img.shields.io/github/followers/marcosmbm?label=follow&style=social)](https://github.com/marcosmbm)
+<a href="https://www.linkedin.com/in/marcos-barbosa-148224208/" title="LinkedIn">
+<img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-barbosa-148224208/" alt="LinkedIn"/></a>
