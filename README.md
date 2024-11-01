@@ -23,12 +23,6 @@
 **Ferramentas de desenvolvimento**
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
-
-<a href="https://github.com/marcosmbm" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosmbm&theme=dracula&show_icons=true" />
-</a>
-
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-marcosmbm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-barbosa-148224208/)](https://www.linkedin.com/in/marcos-barbosa-148224208/)
 [![Gmail Badge](https://img.shields.io/badge/-marmbmti@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marmbmti@gmail.com)](mailto:marmbmti@gmail.com)
