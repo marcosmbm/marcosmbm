@@ -1,12 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=marcosmbm&color=006bed)
 
 # 👋 Olá! Eu sou o Marcos
-
 Sou desenvolvedor JavaScript com foco em aplicações web e mobile utilizando **React**, **React Native** e **Node.js**. Tenho experiência trabalhando em projetos reais de empresas, sempre buscando escrever código limpo, performático e de fácil manutenção.
-
-Atualmente estou me aprofundando em arquitetura front-end, testes automatizados e boas práticas de desenvolvimento.
-
----
 
 ## 🚀 Tecnologias que uso
 
